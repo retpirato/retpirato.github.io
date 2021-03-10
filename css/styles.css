@@ -1,0 +1,69 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 16px;
+    font-family: 'Krub', sans-serif;
+    text-align: center;
+    background-color: black;
+}
+
+.title {
+    background-color: aqua;
+    text-align: center;
+    font-size: 4rem;
+}  
+
+.zeus {
+    background-color: bisque;
+}
+
+img {
+    width: 50rem;
+}
+
+p {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 2rem;
+    padding: 1rem;
+    font-weight: 700;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 120rem;
+}
+
+a:hover {
+    background-color: black;
+    color: white;
+}
+
+.divnav {
+    background-color: aqua;
+}
+
+.intro {
+    margin-top: 3rem;
+    width: 90rem;
+}
+
+.paddingdown {
+    margin-top: 5rem;
+}
+
+.hades {
+    width: 45rem;
+}
+
+.demeter {
+    width: 40rem;
+}
